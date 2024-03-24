@@ -1,6 +1,7 @@
 title: "AA's Blog"
 author: "Abdelkarim Ain"
-description: "Made with ❤ by abdelkarimain.vercel.app"
+description: {title: "Made with ❤ by ", url: "abdelkarimain.vercel.app"}
+
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
